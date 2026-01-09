@@ -10,9 +10,6 @@
   - for certification DEVASC, and after obtain this certification, should go to DEVCOR...
   - And I'm study Data Science and Machine Learning on IMS Universidade Nova of Lisbon - Portugal
 
-- 💞️ I’m looking to collaborate on ...
-  -Python, Ansible, CISCO pyATS - automation
-
 - 📫 How to reach me ...
    - https://linkedin.com/in/pjcafonso
       
